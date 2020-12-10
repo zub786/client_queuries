@@ -1,0 +1,1 @@
+SELECT * FROM media_spectrum.onclusive_data LIMIT 10
